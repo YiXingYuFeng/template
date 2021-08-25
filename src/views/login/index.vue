@@ -1,10 +1,10 @@
 <template>
-$END$
+  this is test
 </template>
 
 <script>
 export default {
-name: "index.vue"
+  name: "index.vue"
 }
 </script>
 
